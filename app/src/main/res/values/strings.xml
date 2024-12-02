@@ -1,0 +1,5 @@
+<resources>
+	<string name="keyboard_layout_spanish_mod">Spanish Modified</string>
+  <string name="app_name">Mamaral Keyboard Layouts</string>
+  <string name="keyboard_layouts_label">Mamaral keyboard layouts</string>
+</resources>
